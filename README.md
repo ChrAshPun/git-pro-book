@@ -4,3 +4,5 @@ This repository is designed for following along with the "Pro Git" book by Scott
 https://git-scm.com/book/en/v2
 
 this is a new line to test the "git reset HEAD <file>" command
+
+this line is for the testing branch
