@@ -8,4 +8,6 @@ this is a new line to test the "git reset HEAD <file>" command
 this line is for main branch only
 this line is for the testing branch
 
+push to remote (origin)
+
 this is a second line for the testing branch
