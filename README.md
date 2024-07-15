@@ -6,3 +6,6 @@ https://git-scm.com/book/en/v2
 this is a new line to test the "git reset HEAD <file>" command
 
 this line is for main branch only
+this line is for the testing branch
+
+this is a second line for the testing branch
