@@ -12,4 +12,8 @@ push to remote (origin)
 
 this is a second line for the testing branch
 
+<<<<<<< HEAD
 this is a line on main branch
+=======
+this is another line for the new-testing branch
+>>>>>>> 6206029 (first commit for new-testing)
