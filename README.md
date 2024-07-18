@@ -13,10 +13,8 @@ push to remote (origin)
 this is a second line for the testing branch
 
 this is a line on main branch
-<<<<<<< HEAD
-this is another line for the new-testing branch
-=======
 this is another line for the new-testing branch
 
 this line is to test out cherrypicking
->>>>>>> 5ac3b88 (test cherrypicking)
+
+1 this line is to test patching
